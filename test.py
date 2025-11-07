@@ -1,1 +1,1 @@
-print("how are you buddy this is version 9")
+prin("how are you buddy this is version 9")
